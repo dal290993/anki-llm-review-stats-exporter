@@ -1,0 +1,6 @@
+{
+  "package": "llm_review_stats",
+  "name": "LLM Review Stats Exporter",
+  "human_version": "0.1.0",
+  "homepage": "https://github.com/jaybird1291/anki-llm-review-stats-exporter"
+}
